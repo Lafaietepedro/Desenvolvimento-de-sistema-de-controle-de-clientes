@@ -1,0 +1,14 @@
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\bin\Debug\net8.0\Atividade.exe
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\bin\Debug\net8.0\Atividade.deps.json
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\bin\Debug\net8.0\Atividade.dll
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\bin\Debug\net8.0\Atividade.pdb
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\obj\Debug\net8.0\Atividade.dll
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\obj\Debug\net8.0\Atividade.pdb
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+G:\FULL_STACK_SENAI\Desenvolvimento-de-sistema-de-controle-de-clientes\Atividade\obj\Debug\net8.0\ref\Atividade.dll
